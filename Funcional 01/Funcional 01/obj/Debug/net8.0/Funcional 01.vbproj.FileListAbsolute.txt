@@ -1,0 +1,14 @@
+D:\Visual Basic\repos\Funcional 01\Funcional 01\bin\Debug\net8.0\Funcional 01.exe
+D:\Visual Basic\repos\Funcional 01\Funcional 01\bin\Debug\net8.0\Funcional 01.deps.json
+D:\Visual Basic\repos\Funcional 01\Funcional 01\bin\Debug\net8.0\Funcional 01.runtimeconfig.json
+D:\Visual Basic\repos\Funcional 01\Funcional 01\bin\Debug\net8.0\Funcional 01.dll
+D:\Visual Basic\repos\Funcional 01\Funcional 01\bin\Debug\net8.0\Funcional 01.pdb
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.AssemblyInfoInputs.cache
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.AssemblyInfo.vb
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.dll
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\refint\Funcional 01.dll
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.pdb
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\Funcional 01.genruntimeconfig.cache
+D:\Visual Basic\repos\Funcional 01\Funcional 01\obj\Debug\net8.0\ref\Funcional 01.dll

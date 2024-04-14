@@ -1,0 +1,14 @@
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\bin\Debug\net8.0\Orientada a objetos 01.exe
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\bin\Debug\net8.0\Orientada a objetos 01.deps.json
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\bin\Debug\net8.0\Orientada a objetos 01.runtimeconfig.json
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\bin\Debug\net8.0\Orientada a objetos 01.dll
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\bin\Debug\net8.0\Orientada a objetos 01.pdb
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.AssemblyInfoInputs.cache
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.AssemblyInfo.vb
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.dll
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\refint\Orientada a objetos 01.dll
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.pdb
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\Orientada a objetos 01.genruntimeconfig.cache
+D:\Visual Basic\repos\Orientada a objetos 01\Orientada a objetos 01\obj\Debug\net8.0\ref\Orientada a objetos 01.dll
